@@ -16,3 +16,4 @@ the format and time zone. */
 const datee = new Date();
 console.log(date.toLocaleString());
 console.log(date.toLocaleString('en-NG', {timeZone: 'UTC'}));
+ console.log("");
